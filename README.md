@@ -11,3 +11,7 @@
 ### Day 3
 
 ##### Worked on landing page wireframe and made some code changes
+
+### Day 4
+
+##### Went to meeting where we discussed our thoughts on marketing landing page. Worked on updating landing page.
