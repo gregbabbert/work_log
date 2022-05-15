@@ -15,3 +15,7 @@
 ### Day 4
 
 ##### Went to meeting where we discussed our thoughts on marketing landing page. Worked on updating landing page.
+
+### Day 5
+
+##### Worked on landing page design in Adobe xd.
