@@ -19,3 +19,7 @@
 ### Day 5
 
 ##### Worked on landing page design in Adobe xd.
+
+### Day 6
+
+##### Worked on finishing up the landing page wireframe
