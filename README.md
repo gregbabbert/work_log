@@ -23,3 +23,7 @@
 ### Day 6
 
 ##### Worked on finishing up the landing page wireframe
+
+### Day 7
+
+##### Worked on finishing landing page wireframe and profile wireframe
