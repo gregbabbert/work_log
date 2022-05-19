@@ -27,3 +27,7 @@
 ### Day 7
 
 ##### Worked on finishing landing page wireframe and profile wireframe
+
+### Day 8
+
+##### Attended marketing meeting and worked on wireframes
