@@ -31,3 +31,7 @@
 ### Day 8
 
 ##### Attended marketing meeting and worked on wireframes
+
+### Day 9
+
+##### Go over wireframes and start to code landing page
