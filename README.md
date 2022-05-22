@@ -35,3 +35,7 @@
 ### Day 9
 
 ##### Go over wireframes and start to code landing page
+
+### Day 10
+
+##### Work on coding landing page in react
