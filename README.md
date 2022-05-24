@@ -39,3 +39,7 @@
 ### Day 10
 
 ##### Work on coding landing page in react
+
+### Day 11
+
+##### Work on the navbar and footer in react
